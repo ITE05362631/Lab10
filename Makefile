@@ -1,2 +1,2 @@
-v2:v2.c
-	gcc -o v2 v2.c -lpthread
+v3:v3.c
+	gcc -o v3 v3.c -lpthread
